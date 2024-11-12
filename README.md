@@ -40,7 +40,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,postgres,figma,github,html,java,js,mysql,nodejs,postman,py,react,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,wordpress,css,html,js,react,php,laravel,figma,java,spring,mysql,nodejs,postman,py,vscode,idea,&perline=14" />
   </a>
 </p>
 
