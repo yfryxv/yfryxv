@@ -29,6 +29,8 @@
 
 - 🏠 Feel free to send me a 👋 on Discord – yfryxv my username!
 <!--Intro end-->
+<br><br>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
 <!--h1 without bottom border-->
