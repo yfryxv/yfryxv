@@ -16,6 +16,8 @@
     <summary><h2 style="display: inline-block">In the end everything will work out...and if it doesn't work out it's not the end..</h2></summary>
   </ul>
 </div>
+<br><br>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
 <!--Intro start-->
@@ -29,8 +31,6 @@
 
 - 🏠 Feel free to send me a 👋 on Discord – yfryxv my username!
 <!--Intro end-->
-<br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
 <!--h1 without bottom border-->
