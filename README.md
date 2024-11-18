@@ -76,6 +76,9 @@
   <a href="https://github.com/yfryxv/react-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yfryxv&repo=yfryxv&theme=radical" alt="Repo 3">
   </a>
+  <a href="https://github.com/yfryxv/react-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yfryxv&repo=yfryxv&theme=radical" alt="Repo 3">
+  </a>
 </div>
 
 
