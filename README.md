@@ -62,7 +62,7 @@
 <a href="https://www.instagram.com/yfryac_/?hl=es" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="https://discordapp.com/users/yfryxv" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 </p>
-<!--
+
 <strong>🚀 My Latest Updates :</strong><br><br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 0 auto;">
   <a href="https://github.com/yfryxv/api-auth">
@@ -78,7 +78,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yfryxv&repo=yfryxv&theme=radical" alt="Repo 3">
   </a>
 </div>
--->
+
 
 
 
