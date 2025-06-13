@@ -17,7 +17,7 @@
   </ul>
 </div>
 <br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenkxbzdodnRubmtnajZ0cWc2djZ3b2EzanppamhqOHgxbXZveHUyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ToMjGpEPpVJpWWpAWsw/giphy.gif" />
 
 
 <!--Intro start-->
