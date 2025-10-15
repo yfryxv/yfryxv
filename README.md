@@ -8,37 +8,32 @@
   </ul>
 </div>
 
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">In the end everything will work out...and if it doesn't work out it's not the end..</h2></summary>
+    <summary><h2 style="display: inline-block">In the end everything will work out... and if it doesn't, it's not the end.</h2></summary>
   </ul>
 </div>
 <br><br>
+
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenkxbzdodnRubmtnajZ0cWc2djZ3b2EzanppamhqOHgxbXZveHUyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ToMjGpEPpVJpWWpAWsw/giphy.gif" />
 
-
 <!--Intro start-->
-- 🔭 I am currently working with Java, SpringBot, MySql, React
-
-- 🌱 I am currently learning how to put together multiple systems for the user
-
-- ☁️ I have great interest in computing 
-
-- 📫 Don't hesitate to contact me: arapacampos@gmail.com
-
-- 🏠 Feel free to send me a 👋 on Discord – yfryxv my username!
+- 🔭 I am currently working with **Java, Spring Boot, MySQL, Node.js, React**
+- 🌱 I am currently learning to **integrate multiple systems to deliver user-friendly solutions**
+- ☁️ I have a strong interest in **AI, Python, and advanced computing**
+- 📫 Don't hesitate to contact me: **arapacampos@gmail.com**
+- 🏠 Find me on Discord: **yfryxv**
+- 💡 I love **learning, experimenting, and building practical solutions**  
 <!--Intro end-->
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies & Tools 👨🏻‍💻</h2></summary>
   </ul>
 </div>
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -46,46 +41,50 @@
   </a>
 </p>
 
-
-<!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Professional Skills & Interests ⚡</h2></summary>
+  </ul>
+</div>
+
+- Backend Development with **Java, Spring Boot, Node.js**
+- Frontend Development with **React & basic UI/UX**
+- Database Design & Management: **MySQL**
+- **Python & AI Projects**: learning machine learning and automation
+- REST APIs and **JWT authentication**
+- Software Architecture & System Integration
+- Version Control: **Git & GitHub**
+- Continuous Learning & Open Source Contribution
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
   </ul>
 </div>
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/jefryarapa/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://x.com/yfryxv" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/yfryac_/?hl=es" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/yfryxv" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/jefryarapa/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="https://x.com/yfryxv" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+  <a href="https://www.instagram.com/yfryac_/?hl=es" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+  <a href="https://discordapp.com/users/yfryxv" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 </p>
-<!--
-<strong>🚀 My Latest Updates :</strong><br><br>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 0 auto;">
-  <a href="https://github.com/yfryxv/api-auth">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yfryxv&repo=yfryxv&theme=radical" alt="Repo 1">
-  </a>
-  <a href="https://github.com/yfryxv/api-dni-ruc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yfryxv&repo=yfryxv&theme=radical" alt="Repo 2">
-  </a>
-  <a href="https://github.com/yfryxv/react-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yfryxv&repo=yfryxv&theme=radical" alt="Repo 3">
-  </a>
-  <a href="https://github.com/yfryxv/react-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yfryxv&repo=yfryxv&theme=radical" alt="Repo 3">
-  </a>
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Projects & Contributions 🚀</h2></summary>
+  </ul>
 </div>
--->
 
-
-
+- **Help Backend API** – Node.js / NestJS backend for ticket management with JWT authentication  
+- **API DNI & RUC** – Fast API for querying Peruvian ID and tax numbers  
+- **React System** – Fullstack projects integrating React frontend with Node.js backend  
+- **Open Source Contributions** – Regularly contributing to GitHub projects and learning new technologies  
 
 ![snake gif](https://github.com/yfryxv/yfryxv/blob/output/github-snake-dark.svg)
 
 <!--horizontal divider(gradiant)-->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-----------------------------------------------------------------------
