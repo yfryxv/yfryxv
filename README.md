@@ -16,9 +16,9 @@
 </div>
 <br><br>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenkxbzdodnRubmtnajZ0cWc2djZ3b2EzanppamhqOHgxbXZveHUyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ToMjGpEPpVJpWWpAWsw/giphy.gif" />
-
 <!--Intro start-->
+<img align="right" width="400" height="400" alt="side_sticker" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
+
 - 🔭 I am currently working with **Java, Spring Boot, MySQL, Node.js, React**
 - 🌱 I am currently learning to **integrate multiple systems to deliver user-friendly solutions**
 - ☁️ I have a strong interest in **AI, Python, and advanced computing**
