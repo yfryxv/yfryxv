@@ -18,7 +18,8 @@
 
 <!--Intro start-->
 <img align="right" width="350" height="350" alt="side_sticker" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
-
+<br>
+<br>
 - 🔭 I am currently working with **Java, Spring Boot, MySQL, Node.js, React**
 - 🌱 I am currently learning to **integrate multiple systems to deliver user-friendly solutions**
 - ☁️ I have a strong interest in **AI, Python, and advanced computing**
