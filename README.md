@@ -1,91 +1,50 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+# Wrote yfryxv-README.md
+# Hi, I'm Jefry Arapa C.
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Jefry Arapa C.</h1></summary>
-  </ul>
-</div>
+> "In the end everything will work out... and if it doesn't, it's not the end."
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">In the end everything will work out... and if it doesn't, it's not the end.</h2></summary>
-  </ul>
-</div>
-<br><br>
+## About Me
 
-<!--Intro start-->
-<img align="right" width="350" height="350" alt="side_sticker" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
+- **Backend Developer** working with Java, Spring Boot, Node.js, and NestJS
+- **Frontend** with React and basic UI/UX design
+- **Database** design and management with MySQL
+- **AI & Automation** enthusiast exploring Python and machine learning
+- Building practical solutions that integrate multiple systems
 
+## Tech Stack
 
-- 🔭 I am currently working with **Java, Spring Boot, MySQL, Node.js, React**
-- 🌱 I am currently learning to **integrate multiple systems to deliver user-friendly solutions**
-- ☁️ I have a strong interest in **AI, Python, and advanced computing**
-- 📫 Don't hesitate to contact me: **arapacampos@gmail.com**
-- 🏠 Find me on Discord: **yfryxv**
-- 💡 I love **learning, experimenting, and building practical solutions**  
-<!--Intro end-->
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies & Tools 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+## Featured Projects
 
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,wordpress,css,html,js,react,php,laravel,figma,java,spring,mysql,nodejs,postman,py,vscode,idea,astro,nest,prisma,vue,django,nuxt,linux,ruby,maven,&perline=14" />
-  </a>
-</p>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [api-auth](https://github.com/yfryxv/api-auth) | Authentication API with JWT | Java |
+| [api-systems-tickets](https://github.com/yfryxv/api-systems-tickets) | Support ticket management with role-based access | NestJS, Prisma |
+| [verificador](https://github.com/yfryxv/verificador) | Data verification and synchronization tool | Python |
+| [laravel-crud-api-v2](https://github.com/yfryxv/laravel-crud-api-v2) | CRUD API with Laravel Blade | PHP, Laravel |
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Professional Skills & Interests ⚡</h2></summary>
-  </ul>
-</div>
+## GitHub Stats
 
-- Backend Development with **Java, Spring Boot, Node.js**
-- Frontend Development with **React & basic UI/UX**
-- Database Design & Management: **MySQL**
-- **Python & AI Projects**: learning machine learning and automation
-- REST APIs and **JWT authentication**
-- Software Architecture & System Integration
-- Version Control: **Git & GitHub**
-- Continuous Learning & Open Source Contribution
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yfryxv&show_icons=true&theme=radical&hide_border=true)](https://github.com/yfryxv)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yfryxv&layout=compact&theme=radical&hide_border=true)](https://github.com/yfryxv)
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
-  </ul>
-</div>
+## Contact
 
-<!--icons and links-->
-<p align="center">
-  <a href="https://www.linkedin.com/in/jefryarapa/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="https://x.com/yfryxv" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-  <a href="https://www.instagram.com/yfryac_/?hl=es" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-  <a href="https://discordapp.com/users/yfryxv" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-</p>
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Projects & Contributions 🚀</h2></summary>
-  </ul>
-</div>
-
-- **Help Backend API** – Node.js / NestJS backend for ticket management with JWT authentication  
-- **API DNI & RUC** – Fast API for querying Peruvian ID and tax numbers  
-- **React System** – Fullstack projects integrating React frontend with Node.js backend  
-- **Open Source Contributions** – Regularly contributing to GitHub projects and learning new technologies  
-
-![snake gif](https://github.com/yfryxv/yfryxv/blob/output/github-snake-dark.svg)
-
-<!--horizontal divider(gradiant)-->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefryarapa/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/yfryxv)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/yfryac_/)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/yfryxv)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arapacampos@gmail.com)
